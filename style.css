@@ -1,0 +1,75 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-image: url(image.webp);
+    background-size: cover;
+    background-position: center;
+}
+
+.SignUp-form{
+  width:300px;
+  box-shadow: 0 0 3px 0 rgba(0,0,0,0.3);
+  background: #fff;
+  text-align: center;
+  margin-left: 37%;
+  margin-top: 8%;
+  padding:20px;
+}
+
+.SignUp{
+    color: #3E5FA8;
+}
+
+.inputbox{
+    width: 275px;
+    height:30px;
+    margin:7px 10px 7px 8px;
+    border-radius: 20px;
+    padding-left: 7px;
+}
+
+#agreement{
+    margin-top: 20px;
+    
+}
+
+.buttons{
+   background-color: #2681D1;
+   color: white;
+   width: 300px;
+   height:40px;
+   margin:17px 0px 7px 0px;
+   border-radius: 20px;
+   padding-left: 7px;
+}
+
+.twitter{
+    background-color: #4393B5;
+   color: white;
+   width: 300px;
+   height:40px;
+   margin:0px 0px 7px 0px;
+   border-radius: 20px;
+   padding-left: 7px;
+}
+
+.horizontal-rule {
+    width: 100%;
+    border-bottom: 1px solid #000; /* Change the color and thickness as needed */
+    text-align: center;
+    margin: 30px 0; /* Adjust margin as needed */
+    line-height: 0.1em;
+  }
+  
+  .text {
+    background-color: #fff; /* Match background color with your page background */
+    padding: 0 10px; /* Adjust padding as needed */
+    position: relative;
+    top: 0px; /* Adjust vertical position as needed */
+  }
+
+  .img2{
+    width: 24%;
+    margin-top: -18%;
+  }
